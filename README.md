@@ -1,6 +1,8 @@
 # IMPORTANT
 
-This code has moved into the ProBuilder repository under "Samples~". See https://github.com/Unity-Technologies/com.unity.probuilder
+Apr 21 2024
+Fix: removed Editor folder
+Fix: updated MakePrimitiveEditable.cs to latest version            
 
 # ProBuilder API Examples
 
@@ -14,5 +16,5 @@ Using the command line:
 
 ```
 cd ~/MyUnityProject/Assets
-git clone https://github.com/Unity-Technologies/ProBuilder-API-Examples.git
+git clone https://github.com/starkister/ProBuilder-API-Examples-WebGL.git
 ```
