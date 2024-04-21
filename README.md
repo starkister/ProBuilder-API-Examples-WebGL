@@ -1,8 +1,14 @@
-# IMPORTANT
+# UPDATE HISTORY
+Apr 22 2024 <br />
+updated: Procedural Mesh to WebGL version. <br />
 
-Apr 21 2024
-Fix: removed Editor folder
-Fix: updated MakePrimitiveEditable.cs to latest version            
+Apr 21 2024 <br />
+Fix: removed Editor folder.<br />
+Fix: updated MakePrimitiveEditable.cs to latest version.<br />
+
+# IMPORTANT
+WebGL Supported Projects:<br />
+Procedural Mesh
 
 # ProBuilder API Examples
 
